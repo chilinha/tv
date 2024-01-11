@@ -17,11 +17,7 @@ rtp://225.1.1.129:5002
 rtp://225.1.1.125:5002
 #EXTINF:-1 tvg-id="天津购物" tvg-name="天津购物" group-title="天津频道",天津购物
 rtp://225.1.1.151:5002
-#EXTINF:-1 tvg-id="天津IPTV" tvg-name="天津IPTV" group-title="天津频道",天津IPTV
-rtp://225.1.2.123:5002
-#EXTINF:-1 tvg-id="天津购物自营" tvg-name="天津购物自营" group-title="天津频道",天津购物自营
-rtp://225.1.1.108:5002
-#EXTINF:-1 tvg-id="蓟州卫视" tvg-name="蓟州" group-title="天津频道",蓟州
+#EXTINF:-1 tvg-id="蓟州" tvg-name="蓟州" group-title="天津频道",蓟州
 rtp://225.1.1.82:5002
 #EXTINF:-1 tvg-id="大港油田企业" tvg-name="大港油田企业" group-title="天津频道",大港油田企业
 rtp://225.1.2.14:5002
@@ -37,8 +33,6 @@ rtp://225.1.2.8:5002
 rtp://225.1.1.110:5002
 #EXTINF:-1 tvg-id="宝坻" tvg-name="宝坻" group-title="天津频道",宝坻
 rtp://225.1.1.83:5002
-
-
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视频道",CCTV-1综合
 rtp://225.1.1.120:5002
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视频道",CCTV-2财经
@@ -75,16 +69,6 @@ rtp://225.1.2.194:5002
 rtp://225.1.2.237:5002
 #EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" group-title="央视频道",CCTV-17农业农村
 rtp://225.1.2.52:5002
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视频道",CGTN
-rtp://225.1.1.27:5002
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="央视频道",CGTN纪录
-rtp://225.1.1.55:5002
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方频道",广东卫视
 rtp://225.1.1.116:5002
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="地方频道",甘肃卫视
@@ -232,7 +216,7 @@ rtp://225.1.1.145:5002
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="付费频道",都市剧场
 rtp://225.1.1.146:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="付费频道",欢笑剧场
-rtp://225.1.1.139:5002
+rtp://225.1.1.152:5002
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="付费频道",CHC家庭影院
 rtp://225.1.1.213:5002
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="付费频道",CHC高清电影
@@ -245,62 +229,18 @@ rtp://225.1.2.104:5002
 rtp://225.1.2.105:5002
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="付费频道",武术世界
 rtp://225.1.2.129:5002
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="付费频道",快乐垂钓
-rtp://225.1.1.92:5002
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
-#EXTINF:-1 tvg-id="4K私享家" tvg-name="4K私享家" group-title="付费频道",4K私享家
-rtp://225.1.1.156:5002
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="付费频道",书画
+rtp://225.1.2.22:5002
 #EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="付费频道",4K影视
 rtp://225.1.2.190:5002
-#EXTINF:-1 tvg-id="FTV足球" tvg-name="FTV足球" group-title="付费频道",FTV足球
-rtp://225.1.2.83:5002
-#EXTINF:-1 tvg-id="GTV网络棋牌" tvg-name="GTV网络棋牌" group-title="付费频道",GTV网络棋牌
-rtp://225.1.1.217:5002
-#EXTINF:-1 tvg-id="GTV游戏竞技" tvg-name="GTV游戏竞技" group-title="付费频道",GTV游戏竞技
-rtp://225.1.1.222:5002
-#EXTINF:-1 tvg-id="风尚生活" tvg-name="风尚生活" group-title="付费频道",风尚生活
-rtp://225.1.2.58:5002
-#EXTINF:-1 tvg-id="欢乐动漫" tvg-name="欢乐动漫" group-title="付费频道",欢乐动漫
-rtp://225.1.1.132:5002
-#EXTINF:-1 tvg-id="极速汽车" tvg-name="极速汽车" group-title="付费频道",极速汽车
-rtp://225.1.1.141:5002
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" group-title="付费频道",家庭理财
 rtp://225.1.2.23:5002
-#EXTINF:-1 tvg-id="靓妆" tvg-name="靓妆" group-title="付费频道",靓妆
-rtp://225.1.1.200:5002
-#EXTINF:-1 tvg-id="快乐生活" tvg-name="快乐生活" group-title="付费频道",快乐生活
-rtp://225.1.2.24:5002
-#EXTINF:-1 tvg-id="每日影院" tvg-name="每日影院" group-title="付费频道",每日影院
-rtp://225.1.2.57:5002
-#EXTINF:-1 tvg-id="三角英语" tvg-name="三角英语" group-title="付费频道",三角英语
-rtp://225.1.2.182:5002
-#EXTINF:-1 tvg-id="书法" tvg-name="书法" group-title="付费频道",书法
-rtp://225.1.2.22:5002
-#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" group-title="付费频道",陶瓷
-rtp://225.1.1.153:5002
-#EXTINF:-1 tvg-id="幸福彩" tvg-name="幸福彩" group-title="付费频道",幸福彩
-rtp://225.1.1.152:5002
-#EXTINF:-1 tvg-id="幸福剧场" tvg-name="幸福剧场" group-title="付费频道",幸福剧场
-rtp://225.1.2.59:5002
-#EXTINF:-1 tvg-id="幸福娱乐" tvg-name="幸福娱乐" group-title="付费频道",幸福娱乐
-rtp://225.1.2.60:5002
-#EXTINF:-1 tvg-id="悦美生活" tvg-name="悦美生活" group-title="付费频道",悦美生活
-rtp://225.1.2.55:5002
-#EXTINF:-1 tvg-id="足球之夜" tvg-name="足球之夜" group-title="付费频道",足球之夜
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" group-title="付费频道",足球
 rtp://225.1.1.105:5002
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" group-title="付费频道",精彩影视
-rtp://225.1.1.141:5002
 #EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title="付费频道",羽球精品赛事
 rtp://225.1.2.1:5002
-#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" group-title="付费频道",书画频道
-rtp://225.1.2.22:5002
-#EXTINF:-1 tvg-id="百事通经典重温" tvg-name="百事通经典重温" group-title="付费频道",百事通经典重温
-rtp://225.1.2.122:5002
-#EXTINF:-1 tvg-id="百事通经典老片场" tvg-name="百事通经典老片场" group-title="付费频道",百事通经典老片场
-rtp://225.1.2.123:5002
-
-
 #EXTINF:-1 tvg-id="文艺广播" tvg-name="文艺广播" group-title="广播频道",文艺广播
 rtp://225.1.1.171:5002
 #EXTINF:-1 tvg-id="经济广播" tvg-name="经济广播" group-title="广播频道",经济广播
