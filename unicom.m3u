@@ -255,9 +255,9 @@ rtp://225.1.1.175:5002
 rtp://225.1.1.176:5002
 #EXTINF:-1 tvg-id="小说广播" tvg-name="小说广播" group-title="广播频道",小说广播
 rtp://225.1.1.177:5002
-#EXTINF:-1 tvg-id="滨海广播" tvg-name="滨海广播" group-title="广播频道",滨海广播
+#EXTINF:-1 tvg-id="私家车音乐广播" tvg-name="私家车音乐广播" group-title="广播频道",私家车音乐广播
 rtp://225.1.1.178:5002
 #EXTINF:-1 tvg-id="音乐广播" tvg-name="音乐广播" group-title="广播频道",音乐广播
 rtp://225.1.1.179:5002
-#EXTINF:-1 tvg-id="农村广播" tvg-name="农村广播" group-title="广播频道",农村广播
+#EXTINF:-1 tvg-id="经典音乐广播" tvg-name="经典音乐广播" group-title="广播频道",经典音乐广播
 rtp://225.1.1.180:5002
