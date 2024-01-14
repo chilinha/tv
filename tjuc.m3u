@@ -9,9 +9,9 @@ rtp://225.1.1.131:5002
 rtp://225.1.1.149:5002
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-4都市
 rtp://225.1.1.128:5002
-#EXTINF:-1 tvg-name="天津体育" group-title="天津",天津体育
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" group-title="天津",天津体育
 rtp://225.1.1.122:5002
-#EXTINF:-1 tvg-id="天津教育" tvg-name="天津教育" group-title="天津",天津-6教育
+#EXTINF:-1 tvg-id="天津-6教育" tvg-name="天津教育" group-title="天津",天津-6教育
 rtp://225.1.1.129:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/HEDONGQU.jpg" group-title="天津",河东有线 SD
 rtp://225.1.2.2:5002
