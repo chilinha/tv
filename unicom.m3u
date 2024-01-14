@@ -167,11 +167,11 @@ rtp://225.1.2.167:5002
 rtp://225.1.2.170:5002
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" group-title="付费频道",早期教育
 rtp://225.1.2.207:5002
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="付费频道",老故事 SD
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事 SD" group-title="付费频道",老故事 SD
 rtp://225.1.1.188:5002
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" group-title="付费频道",发现之旅 SD
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅 SD" group-title="付费频道",发现之旅 SD
 rtp://225.1.1.183:5002
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="付费频道",中学生 SD
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生 SD" group-title="付费频道",中学生 SD
 rtp://225.1.1.193:5002
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="付费频道",CHC家庭影院
 rtp://225.1.1.213:5002
