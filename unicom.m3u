@@ -211,7 +211,7 @@ rtp://225.1.2.104:5002
 rtp://225.1.2.105:5002
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="付费频道",武术世界
 rtp://225.1.2.129:5002
-#EXTINF:-1 tvg-id="欢乐垂钓" tvg-name="欢乐垂钓" group-title="付费频道",欢乐垂钓
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="付费频道",快乐垂钓
 rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
