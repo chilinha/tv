@@ -239,19 +239,51 @@ rtp://225.1.2.202:5002
 rtp://225.1.2.203:5002
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="付费频道",书画 SD
 rtp://225.1.2.22:5002
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" group-title="付费频道",家庭理财 SD
-rtp://225.1.2.23:5002
 #EXTINF:-1 tvg-id="足球" tvg-name="足球" group-title="付费频道",足球 SD
 rtp://225.1.1.105:5002
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" group-title="付费频道",家庭理财 SD
+rtp://225.1.2.23:5002
 #EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" group-title="付费频道",证券服务 SD
 rtp://225.1.1.72:5002
 
-
-#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="付费频道",4K影视
+#EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" group-title="付费频道",4K超清
+rtp://225.1.1.156:5002
+#EXTINF:-1 tvg-id="超清乐享4K" tvg-name="超清乐享4K" group-title="付费频道",超清乐享4K
 rtp://225.1.2.190:5002
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" group-title="付费频道",爱上4K
+rtp://225.1.1.209:5002
 #EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title="付费频道",羽球精品赛事
 rtp://225.1.2.1:5002
-
+#EXTINF:-1 tvg-id="经典重温" tvg-name="经典重温" group-title="付费频道",经典重温
+rtp://225.1.2.122:5002
+#EXTINF:-1 tvg-id="经典老片场" tvg-name="经典老片场" group-title="付费频道",经典老片场
+rtp://225.1.2.123:5002
+#EXTINF:-1 tvg-id="银发生活" tvg-name="银发生活" group-title="付费频道",银发生活
+rtp://225.1.1.157:5002
+#EXTINF:-1 tvg-id="健康直通车" tvg-name="健康直通车" group-title="付费频道",健康直通车
+rtp://225.1.2.183:5002
+#EXTINF:-1 tvg-id="潮流音乐" tvg-name="潮流音乐" group-title="付费频道",潮流音乐
+rtp://225.1.2.55:5002
+#EXTINF:-1 tvg-id="快乐英语ABC" tvg-name="快乐英语ABC" group-title="付费频道",快乐英语ABC
+rtp://225.1.2.182:5002
+#EXTINF:-1 tvg-id="宝贝爱学" tvg-name="宝贝爱学" group-title="付费频道",宝贝爱学
+rtp://225.1.1.132:5002
+#EXTINF:-1 tvg-id="曲艺大观" tvg-name="曲艺大观" group-title="付费频道",曲艺大观
+rtp://225.1.2.53:5002
+#EXTINF:-1 tvg-id="食全食美" tvg-name="食全食美" group-title="付费频道",食全食美
+rtp://225.1.1.108:5002
+#EXTINF:-1 tvg-id="IPTV3+" tvg-name="IPTV3+" group-title="付费频道",IPTV3+ SD
+rtp://225.1.1.201:5002
+#EXTINF:-1 tvg-id="IPTV5+" tvg-name="IPTV5+" group-title="付费频道",IPTV5+
+rtp://225.1.1.106:5002
+#EXTINF:-1 tvg-id="IPTV足球" tvg-name="IPTV足球" group-title="付费频道",IPTV足球 SD
+rtp://225.1.1.105:5002
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" group-title="付费频道",精彩影视
+rtp://225.1.1.141:5002
+#EXTINF:-1 tvg-id="901" tvg-name="901" group-title="付费频道",901 SD
+rtp://225.1.1.78:5002
+#EXTINF:-1 tvg-id="902" tvg-name="902" group-title="付费频道",902
+rtp://225.1.1.79:5002
 #EXTINF:-1 tvg-id="文艺广播" tvg-name="文艺广播" group-title="广播频道",文艺广播
 rtp://225.1.1.171:5002
 #EXTINF:-1 tvg-id="经济广播" tvg-name="经济广播" group-title="广播频道",经济广播
