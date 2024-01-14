@@ -215,8 +215,10 @@ rtp://225.1.2.129:5002
 rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
-
-
+#EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" group-title="付费频道",足球频道
+rtp://225.1.2.83:5002
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" group-title="付费频道",早期教育
+rtp://225.1.2.207:5002
 
 
 #EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="付费频道",4K影视
