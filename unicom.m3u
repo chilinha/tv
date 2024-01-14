@@ -141,10 +141,6 @@ rtp://225.1.2.25:5002
 rtp://225.1.2.118:5002
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="地方频道",中国天气 SD
 rtp://225.1.2.119:5002
-; #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方频道",东南卫视
-; rtp://225.1.2.235:5002
-; #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="地方频道",山东卫视
-; rtp://225.1.1.148:5002
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="付费频道",风云足球
 rtp://225.1.2.168:5002
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="付费频道",高尔夫网球
