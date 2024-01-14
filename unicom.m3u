@@ -183,49 +183,42 @@ rtp://225.1.1.213:5002
 rtp://225.1.1.214:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="付费频道",CHC动作电影
 rtp://225.1.1.215:5002
-
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="付费频道",动漫秀场
 rtp://225.1.1.134:5002
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" group-title="付费频道",游戏风云
 rtp://225.1.1.135:5002
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="付费频道",魅力足球
 rtp://225.1.1.137:5002
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" group-title="付费频道",劲爆体育
-rtp://225.1.1.136:5002
-
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="付费频道",都市剧场
 rtp://225.1.1.146:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="付费频道",欢笑剧场
 rtp://225.1.1.139:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="付费频道",欢笑剧场 4K
 rtp://225.1.1.152:5002
-
 #EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" group-title="付费频道",法制天地
 rtp://225.1.1.237:5002
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" group-title="付费频道",金色学堂
 rtp://225.1.1.236:5002
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="付费频道",东方财经
 rtp://225.1.1.247:5002
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" group-title="付费频道",生活时尚
 rtp://225.1.1.143:5002
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="付费频道",乐游
 rtp://225.1.1.145:5002
-
-
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" group-title="付费频道",梨园频道
 rtp://225.1.2.104:5002
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" group-title="付费频道",文物宝库
 rtp://225.1.2.105:5002
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="付费频道",武术世界
 rtp://225.1.2.129:5002
+#EXTINF:-1 tvg-id="欢乐垂钓" tvg-name="欢乐垂钓" group-title="付费频道",欢乐垂钓
+rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
+
+
+
+
 #EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="付费频道",4K影视
 rtp://225.1.2.190:5002
 #EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title="付费频道",羽球精品赛事
