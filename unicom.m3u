@@ -235,8 +235,6 @@ rtp://225.1.2.202:5002
 rtp://225.1.2.203:5002
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="付费频道",书画 SD
 rtp://225.1.2.22:5002
-#EXTINF:-1 tvg-id="足球" tvg-name="足球" group-title="付费频道",足球 SD
-rtp://225.1.1.105:5002
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" group-title="付费频道",家庭理财 SD
 rtp://225.1.2.23:5002
 #EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" group-title="付费频道",证券服务 SD
