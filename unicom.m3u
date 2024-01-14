@@ -191,9 +191,7 @@ rtp://225.1.1.135:5002
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="付费频道",魅力足球
 rtp://225.1.1.137:5002
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" group-title="付费频道",劲爆体育
-rtp://225.1.1.135:5002
-#EXTINF:-1 tvg-id="魅力音乐" tvg-name="魅力音乐" group-title="付费频道",魅力音乐
-rtp://225.1.1.137:5002
+rtp://225.1.1.136:5002
 
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="付费频道",都市剧场
 rtp://225.1.1.146:5002
