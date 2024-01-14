@@ -137,8 +137,6 @@ rtp://225.1.1.62:5002
 rtp://225.1.1.124:5002
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" group-title="地方频道",纪实人文
 rtp://225.1.2.25:5002
-#EXTINF:-1 tvg-id="北京纪实"tvg-name="北京纪实" group-title="地方频道",冬奥纪实
-#rtp://225.1.2.30:5002
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="地方频道",山东教育卫视 SD
 rtp://225.1.2.118:5002
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="地方频道",中国天气 SD
@@ -147,9 +145,6 @@ rtp://225.1.2.119:5002
 ; rtp://225.1.2.235:5002
 ; #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="地方频道",山东卫视
 ; rtp://225.1.1.148:5002
-
-
-
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="付费频道",风云足球
 rtp://225.1.2.168:5002
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="付费频道",高尔夫网球
@@ -164,8 +159,6 @@ rtp://225.1.2.174:5002
 rtp://225.1.2.171:5002
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" group-title="付费频道",兵器科技
 rtp://225.1.2.166:5002
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="付费频道",老故事
-rtp://225.1.1.188:5002
 #EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" group-title="付费频道",央视文化精品
 rtp://225.1.2.177:5002
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" group-title="付费频道",女性时尚
@@ -178,12 +171,18 @@ rtp://225.1.2.167:5002
 rtp://225.1.2.170:5002
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" group-title="付费频道",早期教育
 rtp://225.1.2.207:5002
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="付费频道",老故事 SD
+rtp://225.1.1.188:5002
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" group-title="付费频道",发现之旅 SD
+rtp://225.1.1.183:5002
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="付费频道",中学生 SD
+rtp://225.1.1.193:5002
+
+
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" group-title="付费频道",汽摩
 rtp://225.1.1.205:5002
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="付费频道",环球奇观
 rtp://225.1.1.197:5002
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="付费频道",中学生
-rtp://225.1.1.193:5002
 #EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" group-title="付费频道",法制天地
 rtp://225.1.1.237:5002
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" group-title="付费频道",金色学堂
