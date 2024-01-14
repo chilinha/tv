@@ -11,28 +11,24 @@ rtp://225.1.1.149:5002
 rtp://225.1.1.128:5002
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" group-title="天津频道",天津体育
 rtp://225.1.1.122:5002
-#EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" group-title="天津频道",天津科教
+#EXTINF:-1 tvg-id="天津教育" tvg-name="天津教育" group-title="天津频道",天津教育
 rtp://225.1.1.129:5002
-#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" group-title="天津频道",天津少儿
-rtp://225.1.1.125:5002
-#EXTINF:-1 tvg-id="天津购物" tvg-name="天津购物" group-title="天津频道",天津购物
-rtp://225.1.1.151:5002
+#EXTINF:-1 tvg-id="河东卫视" tvg-name="河东" group-title="天津频道",河东 SD
+rtp://225.1.2.2:5002
+#EXTINF:-1 tvg-id="河西卫视" tvg-name="河西" group-title="天津频道",河西 SD
+rtp://225.1.2.4:5002
+#EXTINF:-1 tvg-id="静海" tvg-name="静海" group-title="天津频道",静海 SD
+rtp://225.1.1.110:5002
+#EXTINF:-1 tvg-id="宝坻" tvg-name="宝坻" group-title="天津频道",宝坻 SD
+rtp://225.1.1.83:5002
 #EXTINF:-1 tvg-id="蓟州" tvg-name="蓟州" group-title="天津频道",蓟州
 rtp://225.1.1.82:5002
 #EXTINF:-1 tvg-id="大港油田企业" tvg-name="大港油田企业" group-title="天津频道",大港油田企业
 rtp://225.1.2.14:5002
-#EXTINF:-1 tvg-id="河西卫视" tvg-name="河西" group-title="天津频道",河西
-rtp://225.1.2.4:5002
-#EXTINF:-1 tvg-id="河东卫视" tvg-name="河东" group-title="天津频道",河东
-rtp://225.1.2.2:5002
-#EXTINF:-1 tvg-id="滨海1" tvg-name="滨海1" group-title="天津频道",滨海1
+#EXTINF:-1 tvg-id="滨海1" tvg-name="滨海1" group-title="天津频道",滨海1 SD
 rtp://225.1.2.7:5002
-#EXTINF:-1 tvg-id="滨海2" tvg-name="滨海2" group-title="天津频道",滨海2
+#EXTINF:-1 tvg-id="滨海2" tvg-name="滨海2" group-title="天津频道",滨海2 SD
 rtp://225.1.2.8:5002
-#EXTINF:-1 tvg-id="静海卫视" tvg-name="静海" group-title="天津频道",静海
-rtp://225.1.1.110:5002
-#EXTINF:-1 tvg-id="宝坻" tvg-name="宝坻" group-title="天津频道",宝坻
-rtp://225.1.1.83:5002
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视频道",CCTV-1综合
 rtp://225.1.1.120:5002
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视频道",CCTV-2财经
@@ -72,16 +68,16 @@ rtp://225.1.2.52:5002
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方频道",广东卫视
 rtp://225.1.1.116:5002
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="地方频道",甘肃卫视
-rtp://225.1.1.30:5002
+rtp://225.1.1.159:5002
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="地方频道",海南卫视
 rtp://225.1.2.82:5002
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="地方频道",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="地方频道",内蒙古卫视 SD
 rtp://225.1.1.32:5002
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="地方频道",浙江卫视
 rtp://225.1.1.112:5002
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="地方频道",湖南卫视
 rtp://225.1.1.114:5002
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="地方频道",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="地方频道",新疆卫视 SD
 rtp://225.1.1.35:5002
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="地方频道",湖北卫视
 rtp://225.1.1.147:5002
@@ -138,13 +134,17 @@ rtp://225.1.2.118:5002
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="地方频道",中国天气
 rtp://225.1.2.119:5002
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="地方频道",三沙卫视
-rtp://225.1.2.181:5002
+rtp://225.1.1.182:5002
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="地方频道",金鹰纪实
 rtp://225.1.1.124:5002
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" group-title="地方频道",纪实人文
 rtp://225.1.2.25:5002
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="地方频道",广西卫视
 rtp://225.1.2.81:5002
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方频道",东南卫视
+rtp://225.1.2.81:5002
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="地方频道",山东卫视
+rtp://225.1.1.148:5002
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="付费频道",风云足球
 rtp://225.1.2.168:5002
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="付费频道",高尔夫网球
