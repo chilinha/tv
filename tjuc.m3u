@@ -3,7 +3,7 @@
 rtp://225.1.1.111:5002
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" group-title="天津频道",天津新闻
 rtp://225.1.1.130:5002
-#EXTINF:-1 tvg-name="天津文艺" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-2文艺
+#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-2文艺
 rtp://225.1.1.131:5002
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-3影视
 rtp://225.1.1.149:5002
