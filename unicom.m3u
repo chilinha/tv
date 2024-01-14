@@ -189,7 +189,7 @@ rtp://225.1.1.137:5002
 rtp://225.1.1.146:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="付费频道",欢笑剧场
 rtp://225.1.1.139:5002
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="付费频道",欢笑剧场 4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场 4K" group-title="付费频道",欢笑剧场 4K
 rtp://225.1.1.152:5002
 #EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" group-title="付费频道",法制天地
 rtp://225.1.1.237:5002
@@ -211,33 +211,33 @@ rtp://225.1.2.129:5002
 rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
-#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" group-title="付费频道",汽摩 SD
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩 SD" group-title="付费频道",汽摩 SD
 rtp://225.1.1.205:5002
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="付费频道",环球奇观 SD
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观 SD" group-title="付费频道",环球奇观 SD
 rtp://225.1.1.197:5002
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" group-title="付费频道",新动漫 SD
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫 SD" group-title="付费频道",新动漫 SD
 rtp://225.1.1.216:5002
-#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" group-title="付费频道",先锋乒羽 SD
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽 SD" group-title="付费频道",先锋乒羽 SD
 rtp://225.1.1.219:5002
-#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" group-title="付费频道",中华特产 SD
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产 SD" group-title="付费频道",中华特产 SD
 rtp://225.1.2.197:5002
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="付费频道",财富天下 SD
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下 SD" group-title="付费频道",财富天下 SD
 rtp://225.1.2.198:5002
-#EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道" group-title="付费频道",车迷频道 SD
+#EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道 SD" group-title="付费频道",车迷频道 SD
 rtp://225.1.2.199:5002
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="付费频道",环球旅游 SD
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游 SD" group-title="付费频道",环球旅游 SD
 rtp://225.1.2.200:5002
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" group-title="付费频道",生态环境 SD
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境 SD" group-title="付费频道",生态环境 SD
 rtp://225.1.2.201:5002
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="付费频道",四海钓鱼 SD
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼 SD" group-title="付费频道",四海钓鱼 SD
 rtp://225.1.2.202:5002
-#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" group-title="付费频道",优优宝贝 SD
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝 SD" group-title="付费频道",优优宝贝 SD
 rtp://225.1.2.203:5002
-#EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="付费频道",书画 SD
+#EXTINF:-1 tvg-id="书画" tvg-name="书画 SD" group-title="付费频道",书画 SD
 rtp://225.1.2.22:5002
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" group-title="付费频道",家庭理财 SD
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财 SD" group-title="付费频道",家庭理财 SD
 rtp://225.1.2.23:5002
-#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" group-title="付费频道",证券服务 SD
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务 SD" group-title="付费频道",证券服务 SD
 rtp://225.1.1.72:5002
 #EXTINF:-1 tvg-id="超清乐享4K" tvg-name="超清乐享4K" group-title="付费频道",超清乐享4K
 rtp://225.1.2.190:5002
@@ -245,15 +245,15 @@ rtp://225.1.2.190:5002
 rtp://225.1.2.1:5002
 #EXTINF:-1 tvg-id="健康直通车" tvg-name="健康直通车" group-title="付费频道",健康直通车
 rtp://225.1.2.183:5002
-#EXTINF:-1 tvg-id="IPTV3+" tvg-name="IPTV3+" group-title="付费频道",IPTV3+ SD
+#EXTINF:-1 tvg-id="IPTV3+" tvg-name="IPTV3+ SD" group-title="付费频道",IPTV3+ SD
 rtp://225.1.1.201:5002
 #EXTINF:-1 tvg-id="IPTV5+" tvg-name="IPTV5+" group-title="付费频道",IPTV5+
 rtp://225.1.1.106:5002
-#EXTINF:-1 tvg-id="IPTV足球" tvg-name="IPTV足球" group-title="付费频道",IPTV足球 SD
+#EXTINF:-1 tvg-id="IPTV足球" tvg-name="IPTV足球 SD" group-title="付费频道",IPTV足球 SD
 rtp://225.1.1.105:5002
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" group-title="付费频道",精彩影视
 rtp://225.1.1.141:5002
-#EXTINF:-1 tvg-id="901" tvg-name="901" group-title="付费频道",901 SD
+#EXTINF:-1 tvg-id="901" tvg-name="901 SD" group-title="付费频道",901 SD
 rtp://225.1.1.78:5002
 #EXTINF:-1 tvg-id="902" tvg-name="902" group-title="付费频道",902
 rtp://225.1.1.79:5002
