@@ -23,12 +23,12 @@ rtp://225.1.1.110:5002
 rtp://225.1.1.83:5002
 #EXTINF:-1 tvg-id="蓟州" tvg-name="蓟州" group-title="天津频道",蓟州
 rtp://225.1.1.82:5002
-#EXTINF:-1 tvg-id="大港油田企业" tvg-name="大港油田企业" group-title="天津频道",大港油田企业
-rtp://225.1.2.14:5002
 #EXTINF:-1 tvg-id="滨海1" tvg-name="滨海1" group-title="天津频道",滨海1 SD
 rtp://225.1.2.7:5002
 #EXTINF:-1 tvg-id="滨海2" tvg-name="滨海2" group-title="天津频道",滨海2 SD
 rtp://225.1.2.8:5002
+#EXTINF:-1 tvg-id="大港油田企业" tvg-name="大港油田企业" group-title="天津频道",大港油田企业
+rtp://225.1.2.14:5002
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视频道",CCTV-1综合
 rtp://225.1.1.120:5002
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视频道",CCTV-2财经
