@@ -87,7 +87,7 @@ rtp://225.1.1.123:5002
 rtp://225.1.2.29:5002
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="地方频道",辽宁卫视
 rtp://225.1.1.154:5002
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="地方频道",陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="地方频道",陕西卫视 SD
 rtp://225.1.1.41:5002
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="地方频道",安徽卫视
 rtp://225.1.1.127:5002
@@ -101,35 +101,35 @@ rtp://225.1.2.31:5002
 rtp://225.1.1.113:5002
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="地方频道",河北卫视
 rtp://225.1.2.27:5002
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="地方频道",山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="地方频道",山西卫视 SD
 rtp://225.1.1.50:5002
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="地方频道",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="地方频道",西藏卫视 SD
 rtp://225.1.1.51:5002
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="地方频道",江苏卫视
 rtp://225.1.1.126:5002
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="地方频道",河南卫视
 rtp://225.1.2.61:5002
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="地方频道",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="地方频道",青海卫视 SD
 rtp://225.1.1.54:5002
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="地方频道",宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="地方频道",宁夏卫视 SD
 rtp://225.1.1.56:5002
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="地方频道",兵团卫视
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="地方频道",兵团卫视 SD
 rtp://225.1.1.57:5002
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="地方频道",卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="地方频道",卡酷少儿 SD
 rtp://225.1.1.58:5002
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="地方频道",金鹰卡通
 rtp://225.1.2.236:5002
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="地方频道",重庆卫视
 rtp://225.1.1.155:5002
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="地方频道",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="地方频道",云南卫视 SD
 rtp://225.1.1.61:5002
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="地方频道",哈哈炫动
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="地方频道",哈哈炫动 SD
 rtp://225.1.1.62:5002
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="地方频道",贵州卫视
 rtp://225.1.2.28:5002
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方频道",黑龙江卫视
 rtp://225.1.1.115:5002
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="地方频道",山东教育卫视
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="地方频道",山东教育卫视 SD
 rtp://225.1.2.118:5002
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="地方频道",中国天气
 rtp://225.1.2.119:5002
@@ -142,9 +142,9 @@ rtp://225.1.2.25:5002
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="地方频道",广西卫视
 rtp://225.1.2.81:5002
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方频道",东南卫视
-rtp://225.1.2.81:5002
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="地方频道",山东卫视
-rtp://225.1.1.148:5002
+rtp://225.1.2.235:5002
+; #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="地方频道",山东卫视
+; rtp://225.1.1.148:5002
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="付费频道",风云足球
 rtp://225.1.2.168:5002
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="付费频道",高尔夫网球
