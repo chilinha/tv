@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.112114.xyz"
+#EXTM3U
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="天津频道",天津卫视
 rtp://225.1.1.111:5002
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="天津频道",天津新闻
