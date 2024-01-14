@@ -21,7 +21,7 @@ rtp://225.1.2.4:5002
 rtp://225.1.1.110:5002
 #EXTINF:-1 tvg-id="宝坻" tvg-name="宝坻 SD" group-title="天津频道",宝坻 SD
 rtp://225.1.1.83:5002
-#EXTINF:-1 tvg-id="蓟州" tvg-name="蓟州 SD" group-title="天津频道",蓟州
+#EXTINF:-1 tvg-id="蓟州" tvg-name="蓟州" group-title="天津频道",蓟州
 rtp://225.1.1.82:5002
 #EXTINF:-1 tvg-id="滨海1" tvg-name="滨海1 SD" group-title="天津频道",滨海1 SD
 rtp://225.1.2.7:5002
