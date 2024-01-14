@@ -215,19 +215,6 @@ rtp://225.1.2.129:5002
 rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
-#EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" group-title="付费频道",足球频道
-rtp://225.1.2.83:5002
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" group-title="付费频道",早期教育
-rtp://225.1.2.207:5002
-
-
-#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="付费频道",4K影视
-rtp://225.1.2.190:5002
-#EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title="付费频道",羽球精品赛事
-rtp://225.1.2.1:5002
-
-
-
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" group-title="付费频道",汽摩 SD
 rtp://225.1.1.205:5002
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="付费频道",环球奇观 SD
@@ -256,6 +243,14 @@ rtp://225.1.2.22:5002
 rtp://225.1.2.23:5002
 #EXTINF:-1 tvg-id="足球" tvg-name="足球" group-title="付费频道",足球 SD
 rtp://225.1.1.105:5002
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" group-title="付费频道",证券服务 SD
+rtp://225.1.1.72:5002
+
+
+#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" group-title="付费频道",4K影视
+rtp://225.1.2.190:5002
+#EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title="付费频道",羽球精品赛事
+rtp://225.1.2.1:5002
 
 #EXTINF:-1 tvg-id="文艺广播" tvg-name="文艺广播" group-title="广播频道",文艺广播
 rtp://225.1.1.171:5002
