@@ -101,6 +101,10 @@ rtp://225.1.2.31:5002
 rtp://225.1.1.113:5002
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="地方频道",河北卫视
 rtp://225.1.2.27:5002
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="地方频道",江苏卫视
+rtp://225.1.1.126:5002
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="地方频道",河南卫视
+rtp://225.1.2.61:5002
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="地方频道",重庆卫视
 rtp://225.1.1.155:5002
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="地方频道",贵州卫视
@@ -119,10 +123,6 @@ rtp://225.1.1.41:5002
 rtp://225.1.1.50:5002
 #EXTINF:-1 tvg-id="西藏卫视 SD" tvg-name="西藏卫视 SD" group-title="地方频道",西藏卫视 SD
 rtp://225.1.1.51:5002
-#EXTINF:-1 tvg-id="江苏卫视 SD" tvg-name="江苏卫视 SD" group-title="地方频道",江苏卫视 SD
-rtp://225.1.1.126:5002
-#EXTINF:-1 tvg-id="河南卫视 SD" tvg-name="河南卫视 SD" group-title="地方频道",河南卫视 SD
-rtp://225.1.2.61:5002
 #EXTINF:-1 tvg-id="青海卫视 SD" tvg-name="青海卫视 SD" group-title="地方频道",青海卫视 SD
 rtp://225.1.1.54:5002
 #EXTINF:-1 tvg-id="宁夏卫视 SD" tvg-name="宁夏卫视 SD" group-title="地方频道",宁夏卫视 SD
@@ -187,10 +187,10 @@ rtp://225.1.1.106:5002
 rtp://225.1.1.137:5002
 #EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title="付费频道",羽球精品赛事
 rtp://225.1.2.1:5002
-#EXTINF:-1 tvg-id="百视通" tvg-name="百视通" group-title="付费频道",百视通
+#EXTINF:-1 tvg-id="百视通网球" tvg-name="百视通网球" group-title="付费频道",百视通网球
 rtp://225.1.1.167:5002
-#EXTINF:-1 tvg-id="百视通" tvg-name="百视通" group-title="付费频道",百视通
-rtp://225.1.1.167:5002
+#EXTINF:-1 tvg-id="百视通足球" tvg-name="百视通足球" group-title="付费频道",百视通足球
+rtp://225.1.1.169:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="付费频道",欢笑剧场
 rtp://225.1.1.139:5002
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="付费频道",都市剧场
