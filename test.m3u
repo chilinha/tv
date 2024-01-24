@@ -187,6 +187,10 @@ rtp://225.1.1.106:5002
 rtp://225.1.1.137:5002
 #EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" group-title=付费频道",羽球精品赛事
 rtp://225.1.2.1:5002
+#EXTINF:-1 tvg-id="百视通" tvg-name="百视通" group-title=付费频道",百视通
+rtp://225.1.1.167:5002
+#EXTINF:-1 tvg-id="百视通" tvg-name="百视通" group-title=付费频道",百视通
+rtp://225.1.1.167:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title=付费频道",欢笑剧场
 rtp://225.1.1.139:5002
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title=付费频道",都市剧场
