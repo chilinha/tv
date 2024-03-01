@@ -2,7 +2,7 @@
 
 ## 地址
 
-联通：`https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u`
+联通：`https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u` `gg.gg/1993qo`
 
 ## 推荐使用的播放器
 
