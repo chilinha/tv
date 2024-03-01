@@ -127,7 +127,7 @@ rtp://225.1.1.51:5002
 rtp://225.1.1.54:5002
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/宁夏卫视.png" group-title="地方频道",宁夏卫视 SD
 rtp://225.1.1.56:5002
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/兵团卫视.png" group-title="地方频道"兵团卫视, SD
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/兵团卫视.png" group-title="地方频道",兵团卫视 SD
 rtp://225.1.1.57:5002
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/云南卫视.png" group-title="地方频道",云南卫视 SD
 rtp://225.1.1.61:5002
