@@ -25,7 +25,7 @@ rtp://225.1.2.2:5002
 rtp://225.1.2.4:5002
 #EXTINF:-1 tvg-id="滨海1" tvg-name="滨海1 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/滨海.png" group-title="天津频道",滨海1 SD
 rtp://225.1.2.7:5002
-#EXTINF:-1 tvg-id="滨海2" tvg-name="滨海2 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/滨海.png" group-title="天津频道",2 SD
+#EXTINF:-1 tvg-id="滨海2" tvg-name="滨海2 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/滨海.png" group-title="天津频道",滨海2 SD
 rtp://225.1.2.8:5002
 #EXTINF:-1 tvg-id="大港油田企业" tvg-name="大港油田企业" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/大港油田企业.png" group-title="天津频道",大港油田企业
 rtp://225.1.2.14:5002
@@ -187,10 +187,6 @@ rtp://225.1.1.106:5002
 rtp://225.1.1.137:5002
 #EXTINF:-1 tvg-id="羽球精品赛事" tvg-name="羽球精品赛事" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/羽球精品赛事.png" group-title="付费频道",羽球精品赛事
 rtp://225.1.2.1:5002
-#EXTINF:-1 tvg-id="百视通网球" tvg-name="百视通网球" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/百视通.png" group-title="付费频道",百视通网球
-rtp://225.1.1.167:5002
-#EXTINF:-1 tvg-id="百视通足球" tvg-name="百视通足球" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/百视通.png" group-title="付费频道",百视通足球
-rtp://225.1.1.169:5002
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/欢笑剧场.png" group-title="付费频道",欢笑剧场
 rtp://225.1.1.139:5002
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/都市剧场.png" group-title="付费频道",都市剧场
@@ -217,13 +213,13 @@ rtp://225.1.2.129:5002
 rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-id="茶" tvg-name="茶频道" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/湖南卫视.png" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/发现之旅.png" group-title="付费频道", SD
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/发现之旅.png" group-title="付费频道",发现之旅 SD
 rtp://225.1.1.183:5002
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/老故事.png" group-title="付费频道",老故事 SD
 rtp://225.1.1.188:5002
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/中学生.png" group-title="付费频道",中学生 SD
 rtp://225.1.1.193:5002
-#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/优优宝贝.png" group-title="付费频道", SD
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/优优宝贝.png" group-title="付费频道",优优宝贝 SD
 rtp://225.1.2.203:5002
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/新动漫.png" group-title="付费频道",新动漫 SD
 rtp://225.1.1.216:5002
@@ -253,7 +249,7 @@ rtp://225.1.2.202:5002
 rtp://225.1.1.72:5002
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/家庭理财.png" group-title="付费频道",家庭理财 SD
 rtp://225.1.2.23:5002
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/财富天下.png" group-title="付费频道",财富天下 SD
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/江苏卫视.png" group-title="付费频道",财富天下 SD
 rtp://225.1.2.198:5002
 #EXTINF:-1 tvg-id="901" tvg-name="901 SD" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/901.png" group-title="付费频道",901 SD
 rtp://225.1.1.78:5002
@@ -277,5 +273,5 @@ rtp://225.1.1.177:5002
 rtp://225.1.1.178:5002
 #EXTINF:-1 tvg-id="音乐广播" tvg-name="音乐广播" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/广播.jpg" group-title="广播频道",音乐广播
 rtp://225.1.1.179:5002
-#EXTINF:-1 tvg-id="经典音乐广播" tvg-name="经典音乐广播" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/广播.png" group-title="广播频道",经典音乐广播
+#EXTINF:-1 tvg-id="经典音乐广播" tvg-name="经典音乐广播" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/广播.jpg" group-title="广播频道",经典音乐广播
 rtp://225.1.1.180:5002
