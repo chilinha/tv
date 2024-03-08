@@ -2,7 +2,8 @@
 
 ## 地址
 
-联通：`https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u` `gg.gg/1993qo`
+- `https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u`
+- `gg.gg/1993qo`
 
 ## 推荐使用的播放器
 
@@ -30,6 +31,3 @@ CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9�
 ### 广播频道（10）
 
 文艺广播、经济广播、新闻广播、生活广播、交通广播、相声广播、小说广播、私家车音乐广播、音乐广播、经典音乐广播
-
-## 更新
-- 2024.3.1 内置台标和epg
