@@ -97,7 +97,7 @@ rtp://225.1.1.117:5002
 rtp://225.1.2.26:5002
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="上海东方卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/dongfang.png" group-title="地方频道",上海东方卫视
 rtp://225.1.2.31:5002
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/beijng.png" group-title="地方频道",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/beijing.png" group-title="地方频道",北京卫视
 rtp://225.1.1.113:5002
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/logo/hebei.png" group-title="地方频道",河北卫视
 rtp://225.1.2.27:5002
