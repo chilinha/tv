@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.erw.cc/e.xml"
+#EXTM3U url-tvg="https://gitcode.net/kuke21/xmlgz/-/raw/master/e.xml"
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin.png" group-title="天津频道",天津卫视
 rtp://225.1.1.111:5002
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
