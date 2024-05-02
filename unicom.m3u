@@ -173,7 +173,7 @@ rtp://225.1.2.170:5002
 rtp://225.1.2.207:5002
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jtyy.png" group-title="付费频道",CHC家庭影院
 rtp://225.1.1.213:5002
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/gqdy.png" group-title="付费频道",CHC高清电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ymdy.png" group-title="付费频道",CHC影迷电影
 rtp://225.1.1.214:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dzdy.png" group-title="付费频道",CHC动作电影
 rtp://225.1.1.215:5002
