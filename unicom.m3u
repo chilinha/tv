@@ -193,6 +193,10 @@ rtp://225.1.1.139:5002
 rtp://225.1.1.146:5002
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jcys.png" group-title="付费频道",精彩影视
 rtp://225.1.1.141:5002
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhms.png" group-title="付费频道",中华美食
+rtp://225.1.1.77:5002
+#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tc.png" group-title="付费频道",陶瓷
+rtp://225.1.2.189:5002
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shss.png" group-title="付费频道",生活时尚
 rtp://225.1.1.143:5002
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ly.png" group-title="付费频道",乐游
