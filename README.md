@@ -1,15 +1,15 @@
-# 天津联通IPTV组播源
+# 天津移动/联通IPTV组播源
 
 ## 地址
 
-- `https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u`
-- `gg.gg/1993qo`
+- 联通：http://gg.gg/iptvuc
+
+- 移动：http://gg.gg/iptvmb
 
 ## 推荐使用的播放器
 
-- Android/电视盒子：[IPTV/IPTV Pro](http://iptvremote.blogspot.com/)
+- Android：[IPTV Pro](https://github.com/chilinha/tv/tree/main/apks)
 
-  提供[*修改版*](https://github.com/chilinha/tv/tree/main/apks)，修复播放rtp源时显示“*加载中*”的bug
 - Windows：[Potplayer](https://potplayer.daum.net/)
 
 ## 频道列表
@@ -34,6 +34,18 @@ CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9�
 
 文艺广播、经济广播、新闻广播、生活广播、交通广播、相声广播、小说广播、私家车音乐广播、音乐广播、经典音乐广播
 
-### 轮播频道
+### 连播频道
 
 百视通赛事、901频道、902频道
+
+## Thanks To
+
+- 台标来源：https://gitee.com/chilinha/tv
+
+- epg节目单来源：https://epg.erw.cc/
+
+## Screenshots
+
+![](https://raw.githubusercontent.com/chilinha/tv/main/img/img_1.png)
+
+![](https://raw.githubusercontent.com/chilinha/tv/main/img/img_2.png)
