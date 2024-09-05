@@ -2,9 +2,9 @@
 
 ## 地址
 
-- 联通：https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u
+- 联通：http://gg.gg/iptvuc
 
-- 移动：https://mirror.ghproxy.com/raw.githubusercontent.com/chilinha/tv/main/mobile.m3u
+- 移动：http://gg.gg/iptvmb
 
 ## 推荐使用的播放器
 
