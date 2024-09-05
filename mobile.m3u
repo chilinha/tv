@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.erw.cc/e.xml"
+#EXTM3U url-tvg="https://e.erw.cc/e.xml"
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin.png" group-title="天津频道",天津卫视
 rtp://225.2.1.111:5000
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
@@ -37,7 +37,7 @@ rtp://225.2.1.158:5000
 rtp://225.2.1.150:5000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
 rtp://225.2.1.160:5000
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5plus" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
 rtp://225.2.1.121:5000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
 rtp://225.2.1.195:5000
@@ -63,7 +63,7 @@ rtp://239.0.2.194:5000
 rtp://239.0.2.237:5000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
 rtp://239.0.2.52:5000
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN新闻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN SD
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN SD
 rtp://225.2.1.27:5000
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtnjl.png" group-title="中央频道",CGTN纪录 SD
 rtp://225.2.1.55:5000
@@ -157,7 +157,7 @@ rtp://239.0.2.174:5000
 rtp://239.0.2.171:5000
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bqkj.png" group-title="付费频道",兵器科技
 rtp://239.0.2.166:5000
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/whjp.png" group-title="付费频道",央视文化精品
+#EXTINF:-1 tvg-id="文化精品" tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/whjp.png" group-title="付费频道",央视文化精品
 rtp://239.0.2.177:5000
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/nxss.png" group-title="付费频道",女性时尚
 rtp://239.0.2.172:5000
