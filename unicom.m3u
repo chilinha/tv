@@ -113,6 +113,8 @@ rtp://225.1.2.28:5002
 rtp://225.1.1.182:5002
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangxi.png" group-title="地方频道",广西卫视
 rtp://225.1.2.81:5002
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yunnan.png" group-title="地方频道",云南卫视
+rtp://225.1.1.250:5002
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/neimenggu.png" group-title="地方频道",内蒙古卫视 SD
 rtp://225.1.1.32:5002
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xinjiang.png" group-title="地方频道",新疆卫视 SD
@@ -129,8 +131,6 @@ rtp://225.1.1.54:5002
 rtp://225.1.1.56:5002
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视 SD
 rtp://225.1.1.57:5002
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yunnan.png" group-title="地方频道",云南卫视 SD
-rtp://225.1.1.61:5002
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/kaku.png" group-title="地方频道",卡酷少儿 SD
 rtp://225.1.1.58:5002
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动 SD
@@ -169,14 +169,16 @@ rtp://225.1.2.176:5002
 rtp://225.1.2.167:5002
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ystq.png" group-title="付费频道",央视台球
 rtp://225.1.2.170:5002
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zqjy.png" group-title="付费频道",早期教育
-rtp://225.1.2.207:5002
+#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/wsjk.png" group-title="付费频道",卫生健康
+rtp://225.1.2.165:5002
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jtyy.png" group-title="付费频道",CHC家庭影院
 rtp://225.1.1.213:5002
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ymdy.png" group-title="付费频道",CHC影迷电影
 rtp://225.1.1.214:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dzdy.png" group-title="付费频道",CHC动作电影
 rtp://225.1.1.215:5002
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zqjy.png" group-title="付费频道",早期教育
+rtp://225.1.2.207:5002
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dmxc.png" group-title="付费频道",动漫秀场
 rtp://225.1.1.134:5002
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yxfy.png" group-title="付费频道",游戏风云
