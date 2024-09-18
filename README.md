@@ -6,9 +6,11 @@
 
 - 移动：http://gg.gg/iptvmb
 
-## 推荐使用的播放器
+## 播放器推荐
 
 - Android：[IPTV Pro](https://github.com/chilinha/tv/tree/main/apks)
+
+- ios：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500) （需要关闭预览图）
 
 - Windows：[Potplayer](https://potplayer.daum.net/)
 
