@@ -143,8 +143,8 @@ rtp://239.0.2.25:5000
 rtp://225.2.1.124:5000
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视 SD
 rtp://239.0.2.118:5000
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zgtq.png" group-title="地方频道",中国天气 SD
-rtp://239.0.2.119:5000
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zgtq.png" group-title="地方频道",中国天气
+rtp://239.0.2.120:5000
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fyzq.png" group-title="付费频道",风云足球
 rtp://239.0.2.168:5000
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/gefwq.png" group-title="付费频道",高尔夫网球
