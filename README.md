@@ -2,9 +2,9 @@
 
 ## 地址
 
-- 联通：https://ghp.ci/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u
+- 联通：https://raw.kkgithub.com/chilinha/tv/main/unicom.m3u
 
-- 移动：https://ghp.ci/raw.githubusercontent.com/chilinha/tv/main/mobile.m3u
+- 移动：https://raw.kkgithub.com/chilinha/tv/main/mobile.m3u
 
 ## 播放器推荐
 
