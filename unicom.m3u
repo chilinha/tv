@@ -139,8 +139,6 @@ rtp://225.1.1.62:5002
 rtp://225.1.2.236:5002
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="地方频道",北京纪实科教
 rtp://225.1.2.30:5002
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jsrw.png" group-title="地方频道",纪实人文
-rtp://225.1.2.25:5002
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jyjs.png" group-title="地方频道",金鹰纪实
 rtp://225.1.1.124:5002
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视 SD
