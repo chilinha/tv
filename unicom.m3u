@@ -110,7 +110,7 @@ rtp://225.1.1.155:5002
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guizhou.png" group-title="地方频道",贵州卫视
 rtp://225.1.2.28:5002
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/qinghai.png" group-title="地方频道",青海卫视
-rtp://225.1.2.81:5002
+rtp://225.1.1.251:5002
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sansha.png" group-title="地方频道",三沙卫视
 rtp://225.1.1.182:5002
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangxi.png" group-title="地方频道",广西卫视
