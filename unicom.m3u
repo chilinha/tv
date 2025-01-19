@@ -109,6 +109,8 @@ rtp://225.1.2.61:5002
 rtp://225.1.1.155:5002
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guizhou.png" group-title="地方频道",贵州卫视
 rtp://225.1.2.28:5002
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/qinghai.png" group-title="地方频道",青海卫视
+rtp://225.1.2.81:5002
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sansha.png" group-title="地方频道",三沙卫视
 rtp://225.1.1.182:5002
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangxi.png" group-title="地方频道",广西卫视
@@ -125,8 +127,6 @@ rtp://225.1.1.41:5002
 rtp://225.1.1.50:5002
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xizang.png" group-title="地方频道",西藏卫视 SD
 rtp://225.1.1.51:5002
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/qinghai.png" group-title="地方频道",青海卫视 SD
-rtp://225.1.1.54:5002
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ningxia.png" group-title="地方频道",宁夏卫视 SD
 rtp://225.1.1.56:5002
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视 SD
@@ -219,8 +219,6 @@ rtp://225.1.2.129:5002
 rtp://225.1.2.18:5002
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cpd.png" group-title="付费频道",茶频道
 rtp://225.1.2.19:5002
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hxjc.png" group-title="付费频道",欢笑剧场 4K
-rtp://225.1.1.152:5002
 #EXTINF:-1 tvg-name="超清乐享" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cqlx.png" group-title="付费频道",超清乐享 4K
 rtp://225.1.2.190:5002
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fxzl.png" group-title="付费频道",发现之旅 SD
