@@ -48,6 +48,9 @@ CCTV4K、北京卫视4K
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/chilinha/tv/main/img/img_1.png)
+![](https://github.com/user-attachments/assets/52597021-047c-419e-b7ed-4602f04eaecb)
 
-![](https://raw.githubusercontent.com/chilinha/tv/main/img/img_2.png)
+![](https://github.com/user-attachments/assets/3efb1ffa-a409-48c1-b934-287676173030)
+
+![](https://github.com/user-attachments/assets/2d719f50-b7a7-45a4-87c8-b7bc9e1604b6)
+
