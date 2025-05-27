@@ -10,7 +10,7 @@
 
 - Android：[IPTV Pro](https://github.com/chilinha/tv/tree/main/apks)
 
-- ios：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500) （需要关闭预览图）
+- ios：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500) （需要开启反交错）
 
 - Windows：[Potplayer](https://potplayer.daum.net/)
 
@@ -52,5 +52,4 @@ CCTV4K、北京卫视4K
 
 ![](https://github.com/user-attachments/assets/3efb1ffa-a409-48c1-b934-287676173030)
 
-![](https://github.com/user-attachments/assets/2d719f50-b7a7-45a4-87c8-b7bc9e1604b6)
-
+![](https://github.com/user-attachments/assets/7a39f1e7-1537-40c3-9f67-d5ade60a6055)
