@@ -239,8 +239,6 @@ rtp://225.1.1.105:5002
 rtp://225.1.1.219:5002
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/chongqing.png" group-title="付费频道",汽摩 SD
 rtp://225.1.1.205:5002
-#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cm.png" group-title="付费频道",车迷频道 SD
-rtp://225.1.2.199:5002
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hqqg.png" group-title="付费频道",环球奇观 SD
 rtp://225.1.1.197:5002
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhtc.png" group-title="付费频道",中华特产 SD
