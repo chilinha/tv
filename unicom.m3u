@@ -262,7 +262,7 @@ rtp://225.1.2.198:5002
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4k.png" group-title="4K频道",CCTV4K
 rtp://225.1.2.245:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="4K频道",北京卫视4K
-rtp://225.1.2.90:5002
+rtp://225.1.2.246:5002
 #EXTINF:-1 tvg-name="文艺广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1046.png" group-title="广播频道",文艺广播
 rtp://225.1.1.171:5002
 #EXTINF:-1 tvg-name="经济广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1014.png" group-title="广播频道",经济广播
