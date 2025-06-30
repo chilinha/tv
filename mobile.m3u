@@ -1,355 +1,349 @@
 #EXTM3U url-tvg="http://e.erw.cc/e.xml"
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin.png" group-title="天津频道",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin.png" group-title="天津频道",天津卫视
 rtp://225.2.1.111:5000
-#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
+#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
 rtp://225.2.1.130:5000
-#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin2.png" group-title="天津频道",天津文艺
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin2.png" group-title="天津频道",天津文艺
 rtp://225.2.1.131:5000
-#EXTINF:-1 tvg-name="天津影视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin3.png" group-title="天津频道",天津影视
+#EXTINF:-1 tvg-name="天津影视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin3.png" group-title="天津频道",天津影视
 rtp://225.2.1.149:5000
-#EXTINF:-1 tvg-name="天津都市" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin4.png" group-title="天津频道",天津都市
+#EXTINF:-1 tvg-name="天津都市" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin4.png" group-title="天津频道",天津都市
 rtp://225.2.1.128:5000
-#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin5.png" group-title="天津频道",天津体育
+#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin5.png" group-title="天津频道",天津体育
 rtp://225.2.1.122:5000
-#EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
+#EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
 rtp://225.2.1.129:5000
-#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jizhou.png" group-title="天津频道",蓟州
+#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jizhou.png" group-title="天津频道",蓟州
 rtp://239.0.2.78:5000
-#EXTINF:-1 tvg-name="宝坻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/baodi.jpg" group-title="天津频道",宝坻 SD
+#EXTINF:-1 tvg-name="宝坻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/baodi.png" group-title="天津频道",宝坻 SD
 rtp://239.0.2.79:5000
-#EXTINF:-1 tvg-name="静海" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jinghai.jpg" group-title="天津频道",静海 SD
+#EXTINF:-1 tvg-name="静海" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jinghai.png" group-title="天津频道",静海 SD
 rtp://239.0.2.80:5000
-#EXTINF:-1 tvg-name="河东" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hedong.jpg" group-title="天津频道",河东 SD
+#EXTINF:-1 tvg-name="河东" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hedong.png" group-title="天津频道",河东 SD
 rtp://239.0.2.62:5000
-#EXTINF:-1 tvg-name="滨海1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/binhai.png" group-title="天津频道",滨海1 SD
+#EXTINF:-1 tvg-name="滨海1" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海1 SD
 rtp://239.0.2.67:5000
-#EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/binhai.png" group-title="天津频道",滨海2 SD
+#EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海2 SD
 rtp://239.0.2.68:5000
-#EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
+#EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
 rtp://239.0.2.74:5000
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
 rtp://225.2.1.120:5000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
 rtp://225.2.1.133:5000
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv3.png" group-title="中央频道",CCTV-3综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv3.png" group-title="中央频道",CCTV-3综艺
 rtp://225.2.1.158:5000
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV-4中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV-4中文国际
 rtp://225.2.1.150:5000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
 rtp://225.2.1.160:5000
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
 rtp://225.2.1.121:5000
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
 rtp://225.2.1.195:5000
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv7.png" group-title="中央频道",CCTV-7国防军事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv7.png" group-title="中央频道",CCTV-7国防军事
 rtp://225.2.1.138:5000
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV-8电视剧
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV-8电视剧
 rtp://225.2.1.196:5000
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv9.png" group-title="中央频道",CCTV-9纪录
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv9.png" group-title="中央频道",CCTV-9纪录
 rtp://225.2.1.119:5000
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv10.png" group-title="中央频道",CCTV-10科教
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv10.png" group-title="中央频道",CCTV-10科教
 rtp://225.2.1.140:5000
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv11.png" group-title="中央频道",CCTV-11戏曲
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv11.png" group-title="中央频道",CCTV-11戏曲
 rtp://239.0.2.192:5000
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv12.png" group-title="中央频道",CCTV-12社会与法
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv12.png" group-title="中央频道",CCTV-12社会与法
 rtp://225.2.1.142:5000
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv13.png" group-title="中央频道",CCTV-13新闻
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv13.png" group-title="中央频道",CCTV-13新闻
 rtp://239.0.2.193:5000
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv14.png" group-title="中央频道",CCTV-14少儿
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv14.png" group-title="中央频道",CCTV-14少儿
 rtp://225.2.1.144:5000
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv15.png" group-title="中央频道",CCTV-15音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv15.png" group-title="中央频道",CCTV-15音乐
 rtp://239.0.2.194:5000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv16.png" group-title="中央频道",CCTV-16奥林匹克
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv16.png" group-title="中央频道",CCTV-16奥林匹克
 rtp://239.0.2.237:5000
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
 rtp://239.0.2.52:5000
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN SD
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN SD
 rtp://225.2.1.27:5000
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtnjl.png" group-title="中央频道",CGTN纪录 SD
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cgtnjl.png" group-title="中央频道",CGTN纪录 SD
 rtp://225.2.1.55:5000
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/heilongjiang.png" group-title="地方频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/heilongjiang.png" group-title="地方频道",黑龙江卫视
 rtp://225.2.1.115:5000
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangdong.png" group-title="地方频道",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong.png" group-title="地方频道",广东卫视
 rtp://225.2.1.116:5000
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/gansu.png" group-title="地方频道",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/gansu.png" group-title="地方频道",甘肃卫视
 rtp://225.2.1.159:5000
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hainan.png" group-title="地方频道",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hainan.png" group-title="地方频道",海南卫视
 rtp://239.0.2.82:5000
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhejiang.png" group-title="地方频道",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zhejiang.png" group-title="地方频道",浙江卫视
 rtp://225.2.1.112:5000
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hunan.png" group-title="地方频道",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hunan.png" group-title="地方频道",湖南卫视
 rtp://225.2.1.114:5000
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hubei.png" group-title="地方频道",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hubei.png" group-title="地方频道",湖北卫视
 rtp://225.2.1.147:5000
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sichuan.png" group-title="地方频道",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sichuan.png" group-title="地方频道",四川卫视
 rtp://225.2.1.123:5000
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jiangxi.png" group-title="地方频道",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jiangxi.png" group-title="地方频道",江西卫视
 rtp://239.0.2.29:5000
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/liaoning.png" group-title="地方频道",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/liaoning.png" group-title="地方频道",辽宁卫视
 rtp://225.2.1.154:5000
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/anhui.png" group-title="地方频道",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/anhui.png" group-title="地方频道",安徽卫视
 rtp://225.2.1.127:5000
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shenzhen.png" group-title="地方频道",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shenzhen.png" group-title="地方频道",深圳卫视
 rtp://225.2.1.117:5000
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dongnan.png" group-title="地方频道",福建东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dongnan.png" group-title="地方频道",福建东南卫视
 rtp://239.0.2.235:5000
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jilin.png" group-title="地方频道",吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jilin.png" group-title="地方频道",吉林卫视
 rtp://239.0.2.26:5000
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dongfang.png" group-title="地方频道",上海东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dongfang.png" group-title="地方频道",上海东方卫视
 rtp://239.0.2.31:5000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="地方频道",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing.png" group-title="地方频道",北京卫视
 rtp://225.2.1.113:5000
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hebei.png" group-title="地方频道",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hebei.png" group-title="地方频道",河北卫视
 rtp://239.0.2.27:5000
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jiangsu.png" group-title="地方频道",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jiangsu.png" group-title="地方频道",江苏卫视
 rtp://225.2.1.126:5000
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/henan.png" group-title="地方频道",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/henan.png" group-title="地方频道",河南卫视
 rtp://239.0.2.61:5000
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/chongqing.png" group-title="地方频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/chongqing.png" group-title="地方频道",重庆卫视
 rtp://225.2.1.155:5000
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guizhou.png" group-title="地方频道",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guizhou.png" group-title="地方频道",贵州卫视
 rtp://239.0.2.28:5000
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/qinghai.png" group-title="地方频道",青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/qinghai.png" group-title="地方频道",青海卫视
 rtp://225.2.1.251:5000
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sansha.png" group-title="地方频道",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sansha.png" group-title="地方频道",三沙卫视
 rtp://225.2.1.182:5000
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangxi.png" group-title="地方频道",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangxi.png" group-title="地方频道",广西卫视
 rtp://239.0.2.81:5000
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yunnan.png" group-title="地方频道",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/yunnan.png" group-title="地方频道",云南卫视
 rtp://225.2.1.250:5000
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/neimenggu.png" group-title="地方频道",内蒙古卫视 SD
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/neimenggu.png" group-title="地方频道",内蒙古卫视 SD
 rtp://225.2.1.32:5000
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xinjiang.png" group-title="地方频道",新疆卫视 SD
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/xinjiang.png" group-title="地方频道",新疆卫视 SD
 rtp://225.2.1.35:5000
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shaanxi.png" group-title="地方频道",陕西卫视 SD
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shaanxi.png" group-title="地方频道",陕西卫视 SD
 rtp://225.2.1.41:5000
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shanxi.png" group-title="地方频道",山西卫视 SD
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shanxi.png" group-title="地方频道",山西卫视 SD
 rtp://225.2.1.50:5000
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xizang.png" group-title="地方频道",西藏卫视 SD
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/xizang.png" group-title="地方频道",西藏卫视 SD
 rtp://225.2.1.51:5000
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ningxia.png" group-title="地方频道",宁夏卫视 SD
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/ningxia.png" group-title="地方频道",宁夏卫视 SD
 rtp://225.2.1.56:5000
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视 SD
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视 SD
 rtp://225.2.1.57:5000
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/kaku.png" group-title="地方频道",卡酷少儿 SD
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/kaku.png" group-title="地方频道",卡酷少儿 SD
 rtp://225.2.1.58:5000
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动 SD
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动 SD
 rtp://225.2.1.62:5000
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jykt.png" group-title="地方频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jykt.png" group-title="地方频道",金鹰卡通
 rtp://239.0.2.236:5000
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="地方频道",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing.png" group-title="地方频道",北京纪实科教
 rtp://239.0.2.30:5000
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jyjs.png" group-title="地方频道",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jyjs.png" group-title="地方频道",金鹰纪实
 rtp://225.2.1.124:5000
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视 SD
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视 SD
 rtp://239.0.2.118:5000
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zgtq.png" group-title="地方频道",中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zgtq.png" group-title="地方频道",中国天气
 rtp://239.0.2.120:5000
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zgjt.png" group-title="地方频道",中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zgjt.png" group-title="地方频道",中国交通
 rtp://239.0.2.57:5000
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fyzq.png" group-title="付费频道",风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fyzq.png" group-title="付费频道",风云足球
 rtp://239.0.2.168:5000
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/gefwq.png" group-title="付费频道",高尔夫网球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/gefwq.png" group-title="付费频道",高尔夫网球
 rtp://239.0.2.169:5000
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dyjc.png" group-title="付费频道",第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dyjc.png" group-title="付费频道",第一剧场
 rtp://239.0.2.175:5000
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hjjc.png" group-title="付费频道",怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hjjc.png" group-title="付费频道",怀旧剧场
 rtp://239.0.2.173:5000
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fyjc.png" group-title="付费频道",风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fyjc.png" group-title="付费频道",风云剧场
 rtp://239.0.2.174:5000
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sjdl.png" group-title="付费频道",世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sjdl.png" group-title="付费频道",世界地理
 rtp://239.0.2.171:5000
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bqkj.png" group-title="付费频道",兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bqkj.png" group-title="付费频道",兵器科技
 rtp://239.0.2.166:5000
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/whjp.png" group-title="付费频道",央视文化精品
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/whjp.png" group-title="付费频道",央视文化精品
 rtp://239.0.2.177:5000
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/nxss.png" group-title="付费频道",女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/nxss.png" group-title="付费频道",女性时尚
 rtp://239.0.2.172:5000
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fyyy.png" group-title="付费频道",风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fyyy.png" group-title="付费频道",风云音乐
 rtp://239.0.2.176:5000
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dszn.png" group-title="付费频道",电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dszn.png" group-title="付费频道",电视指南
 rtp://239.0.2.167:5000
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ystq.png" group-title="付费频道",央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/ystq.png" group-title="付费频道",央视台球
 rtp://239.0.2.170:5000
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/wsjk.png" group-title="付费频道",卫生健康
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/wsjk.png" group-title="付费频道",卫生健康
 rtp://239.0.2.165:5000
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jtyy.png" group-title="付费频道",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jtyy.png" group-title="付费频道",CHC家庭影院
 rtp://225.2.1.213:5000
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ymdy.png" group-title="付费频道",CHC影迷电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/ymdy.png" group-title="付费频道",CHC影迷电影
 rtp://225.2.1.214:5000
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dzdy.png" group-title="付费频道",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dzdy.png" group-title="付费频道",CHC动作电影
 rtp://225.2.1.215:5000
-#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zqjy.png" group-title="付费频道",早期教育
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zqjy.png" group-title="付费频道",早期教育
 rtp://239.0.2.207:5000
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dmxc.png" group-title="付费频道",动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dmxc.png" group-title="付费频道",动漫秀场
 rtp://225.2.1.134:5000
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yxfy.png" group-title="付费频道",游戏风云
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/yxfy.png" group-title="付费频道",游戏风云
 rtp://225.2.1.135:5000
-#EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/iptv5p.png" group-title="付费频道",IPTV5+
+#EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/iptv5p.png" group-title="付费频道",IPTV5+
 rtp://225.2.1.106:5000
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/mlzq.png" group-title="付费频道",魅力足球
-rtp://225.2.1.137:5000
-#EXTINF:-1 tvg-name="羽球精品赛事" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yqjpss.png" group-title="付费频道",羽球精品赛事
+#EXTINF:-1 tvg-name="羽球精品赛事" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/yqjpss.png" group-title="付费频道",羽球精品赛事
 rtp://239.0.2.1:5000
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hxjc.png" group-title="付费频道",欢笑剧场
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hxjc.png" group-title="付费频道",欢笑剧场
 rtp://225.2.1.139:5000
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dsjc.png" group-title="付费频道",都市剧场
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dsjc.png" group-title="付费频道",都市剧场
 rtp://225.2.1.146:5000
-#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jcys.png" group-title="付费频道",精彩影视
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jcys.png" group-title="付费频道",精彩影视
 rtp://225.2.1.141:5000
-#EXTINF:-1 tvg-name="中华美食" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhms.png" group-title="付费频道",中华美食
-rtp://225.2.1.77:5000
-#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhtc.png" group-title="付费频道",中华特产
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zhtc.png" group-title="付费频道",中华特产
 rtp://239.0.2.248:5000
-#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tc.png" group-title="付费频道",陶瓷
+#EXTINF:-1 tvg-name="中华美食" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zhms.png" group-title="付费频道",中华美食
+rtp://225.2.1.77:5000
+#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tc.png" group-title="付费频道",陶瓷
 rtp://239.0.2.189:5000
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shss.png" group-title="付费频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shss.png" group-title="付费频道",生活时尚
 rtp://225.2.1.143:5000
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ly.png" group-title="付费频道",乐游
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/ly.png" group-title="付费频道",乐游
 rtp://225.2.1.145:5000
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jsxt.png" group-title="付费频道",金色学堂
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jsxt.png" group-title="付费频道",金色学堂
 rtp://225.2.1.85:5000
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fztd.png" group-title="付费频道",法治天地
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fztd.png" group-title="付费频道",法治天地
 rtp://225.2.1.84:5000
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dfcj.png" group-title="付费频道",东方财经
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dfcj.png" group-title="付费频道",东方财经
 rtp://225.2.1.247:5000
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/henan.png" group-title="付费频道",梨园频道
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/lypd.png" group-title="付费频道",梨园频道
 rtp://239.0.2.104:5000
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/henan.png" group-title="付费频道",文物宝库
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/wwbk.png" group-title="付费频道",文物宝库
 rtp://239.0.2.105:5000
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/henan.png" group-title="付费频道",武术世界
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/wssj.png" group-title="付费频道",武术世界
 rtp://239.0.2.129:5000
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/klcd.png" group-title="付费频道",快乐垂钓
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/klcd.png" group-title="付费频道",快乐垂钓
 rtp://239.0.2.18:5000
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cpd.png" group-title="付费频道",茶频道
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cpd.png" group-title="付费频道",茶频道
 rtp://239.0.2.19:5000
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fxzl.png" group-title="付费频道",发现之旅 SD
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fxzl.png" group-title="付费频道",发现之旅 SD
 rtp://225.2.1.183:5000
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/lgs.png" group-title="付费频道",老故事 SD
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/lgs.png" group-title="付费频道",老故事 SD
 rtp://225.2.1.188:5000
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zxs.png" group-title="付费频道",中学生 SD
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zxs.png" group-title="付费频道",中学生 SD
 rtp://225.2.1.193:5000
-#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yybb.png" group-title="付费频道",优优宝贝 SD
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/yybb.png" group-title="付费频道",优优宝贝 SD
 rtp://239.0.2.203:5000
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xdm.png" group-title="付费频道",新动漫 SD
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/xdm.png" group-title="付费频道",新动漫 SD
 rtp://225.2.1.216:5000
-#EXTINF:-1 tvg-name="IPTV足球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/iptvzq.png" group-title="付费频道",IPTV足球 SD
+#EXTINF:-1 tvg-name="IPTV足球" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/iptvzq.png" group-title="付费频道",IPTV足球 SD
 rtp://225.2.1.105:5000
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xfpy.png" group-title="付费频道",先锋乒羽 SD
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/xfpy.png" group-title="付费频道",先锋乒羽 SD
 rtp://225.2.1.219:5000
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/chongqing.png" group-title="付费频道",汽摩 SD
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/qm.png" group-title="付费频道",汽摩 SD
 rtp://225.2.1.205:5000
-#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hqqg.png" group-title="付费频道",环球奇观 SD
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hqqg.png" group-title="付费频道",环球奇观 SD
 rtp://225.2.1.197:5000
-#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhtc.png" group-title="付费频道",中华特产 SD
-rtp://239.0.2.197:5000
-#EXTINF:-1 tvg-name="书画" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sh.png" group-title="付费频道",书画 SD
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sh.png" group-title="付费频道",书画 SD
 rtp://239.0.2.22:5000
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hqly.png" group-title="付费频道",环球旅游 SD
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hqly.png" group-title="付费频道",环球旅游 SD
 rtp://239.0.2.200:5000
-#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sthj.png" group-title="付费频道",生态环境 SD
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sthj.png" group-title="付费频道",生态环境 SD
 rtp://239.0.2.201:5000
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shdy.png" group-title="付费频道",四海钓鱼 SD
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shdy.png" group-title="付费频道",四海钓鱼 SD
 rtp://239.0.2.202:5000
-#EXTINF:-1 tvg-name="证券服务" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zqfw.png" group-title="付费频道",证券服务 SD
+#EXTINF:-1 tvg-name="证券服务" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zqfw.png" group-title="付费频道",证券服务 SD
 rtp://225.2.1.72:5000
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jtlc.png" group-title="付费频道",家庭理财 SD
-rtp://239.0.2.23:5000
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cftx.png" group-title="付费频道",财富天下 SD
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cftx.png" group-title="付费频道",财富天下 SD
 rtp://239.0.2.198:5000
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4k.png" group-title="4K频道",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv4k.png" group-title="4K频道",CCTV4K
 rtp://239.0.2.245:5000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="4K频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="4K频道",北京卫视4K
 rtp://239.0.2.246:5000
-#EXTINF:-1 tvg-name="文艺广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1046.png" group-title="广播频道",文艺广播
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong.png" group-title="4K频道",广东卫视4K
+rtp://239.0.2.100:5000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shenzhen.png" group-title="4K频道",深圳卫视4K
+rtp://239.0.2.101:5000
+#EXTINF:-1 tvg-name="文艺广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/1046.png" group-title="广播频道",文艺广播
 rtp://225.2.1.171:5000
-#EXTINF:-1 tvg-name="经济广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1014.png" group-title="广播频道",经济广播
+#EXTINF:-1 tvg-name="经济广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/1014.png" group-title="广播频道",经济广播
 rtp://225.2.1.172:5000
-#EXTINF:-1 tvg-name="新闻广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/972.png" group-title="广播频道",新闻广播
+#EXTINF:-1 tvg-name="新闻广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/972.png" group-title="广播频道",新闻广播
 rtp://225.2.1.173:5000
-#EXTINF:-1 tvg-name="生活广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/911.png" group-title="广播频道",生活广播
+#EXTINF:-1 tvg-name="生活广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/911.png" group-title="广播频道",生活广播
 rtp://225.2.1.174:5000
-#EXTINF:-1 tvg-name="交通广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1068.png" group-title="广播频道",交通广播
+#EXTINF:-1 tvg-name="交通广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/1068.png" group-title="广播频道",交通广播
 rtp://225.2.1.175:5000
-#EXTINF:-1 tvg-name="相声广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/921.png" group-title="广播频道",相声广播
+#EXTINF:-1 tvg-name="相声广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/921.png" group-title="广播频道",相声广播
 rtp://225.2.1.176:5000
-#EXTINF:-1 tvg-name="小说广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/666.png" group-title="广播频道",小说广播
+#EXTINF:-1 tvg-name="小说广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/666.png" group-title="广播频道",小说广播
 rtp://225.2.1.177:5000
-#EXTINF:-1 tvg-name="私家车音乐广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/878.png" group-title="广播频道",私家车音乐广播
+#EXTINF:-1 tvg-name="私家车音乐广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/878.png" group-title="广播频道",私家车音乐广播
 rtp://225.2.1.178:5000
-#EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/99.png" group-title="广播频道",音乐广播
+#EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/99.png" group-title="广播频道",音乐广播
 rtp://225.2.1.179:5000
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/885.png" group-title="广播频道",经典音乐广播
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/885.png" group-title="广播频道",经典音乐广播
 rtp://225.2.1.180:5000
-#EXTINF:-1 tvg-name="咪咕体育01" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育01
+#EXTINF:-1 tvg-name="咪咕体育01" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育01
 rtp://239.0.2.208:5000
-#EXTINF:-1 tvg-name="咪咕体育02" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育02
+#EXTINF:-1 tvg-name="咪咕体育02" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育02
 rtp://239.0.2.209:5000
-#EXTINF:-1 tvg-name="咪咕体育03" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育03
+#EXTINF:-1 tvg-name="咪咕体育03" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育03
 rtp://239.0.2.210:5000
-#EXTINF:-1 tvg-name="咪咕体育04" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育04
+#EXTINF:-1 tvg-name="咪咕体育04" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育04
 rtp://239.0.2.211:5000
-#EXTINF:-1 tvg-name="咪咕体育05" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育05
+#EXTINF:-1 tvg-name="咪咕体育05" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育05
 rtp://239.0.2.212:5000
-#EXTINF:-1 tvg-name="咪咕体育06" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育06
+#EXTINF:-1 tvg-name="咪咕体育06" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育06
 rtp://239.0.2.213:5000
-#EXTINF:-1 tvg-name="咪咕体育07" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育07
+#EXTINF:-1 tvg-name="咪咕体育07" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育07
 rtp://239.0.2.214:5000
-#EXTINF:-1 tvg-name="咪咕体育08" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育08
+#EXTINF:-1 tvg-name="咪咕体育08" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育08
 rtp://239.0.2.215:5000
-#EXTINF:-1 tvg-name="咪咕体育09" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育09
+#EXTINF:-1 tvg-name="咪咕体育09" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育09
 rtp://239.0.2.216:5000
-#EXTINF:-1 tvg-name="咪咕体育10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育10
+#EXTINF:-1 tvg-name="咪咕体育10" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育10
 rtp://239.0.2.217:5000
-#EXTINF:-1 tvg-name="咪咕体育11" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育11
+#EXTINF:-1 tvg-name="咪咕体育11" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育11
 rtp://239.0.2.218:5000
-#EXTINF:-1 tvg-name="咪咕体育12" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育12
+#EXTINF:-1 tvg-name="咪咕体育12" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育12
 rtp://239.0.2.219:5000
-#EXTINF:-1 tvg-name="咪咕体育13" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育13
+#EXTINF:-1 tvg-name="咪咕体育13" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育13
 rtp://239.0.2.220:5000
-#EXTINF:-1 tvg-name="咪咕体育14" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育14
+#EXTINF:-1 tvg-name="咪咕体育14" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育14
 rtp://239.0.2.221:5000
-#EXTINF:-1 tvg-name="咪咕体育15" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育15
+#EXTINF:-1 tvg-name="咪咕体育15" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育15
 rtp://239.0.2.222:5000
-#EXTINF:-1 tvg-name="咪咕体育16" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育16
+#EXTINF:-1 tvg-name="咪咕体育16" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育16
 rtp://239.0.2.223:5000
-#EXTINF:-1 tvg-name="咪咕体育17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育17
+#EXTINF:-1 tvg-name="咪咕体育17" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育17
 rtp://239.0.2.224:5000
-#EXTINF:-1 tvg-name="咪咕体育18" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育18
+#EXTINF:-1 tvg-name="咪咕体育18" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育18
 rtp://239.0.2.225:5000
-#EXTINF:-1 tvg-name="咪咕体育19" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育19
+#EXTINF:-1 tvg-name="咪咕体育19" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育19
 rtp://239.0.2.226:5000
-#EXTINF:-1 tvg-name="咪咕体育20" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育20
+#EXTINF:-1 tvg-name="咪咕体育20" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育20
 rtp://239.0.2.227:5000
-#EXTINF:-1 tvg-name="咪咕体育21" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育21
+#EXTINF:-1 tvg-name="咪咕体育21" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育21
 rtp://239.0.2.228:5000
-#EXTINF:-1 tvg-name="咪咕体育22" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育22
+#EXTINF:-1 tvg-name="咪咕体育22" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育22
 rtp://239.0.2.229:5000
-#EXTINF:-1 tvg-name="咪咕体育26 4K" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/migu.png" group-title="连播频道",咪咕体育26 4K
+#EXTINF:-1 tvg-name="咪咕体育26 4K" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/migu.png" group-title="赛事直播",咪咕体育26 4K
 rtp://239.0.2.233:5000
-#EXTINF:-1 tvg-name="百视通1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通1
+#EXTINF:-1 tvg-name="百视通1" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通1
 rtp://225.1.1.162:5000
-#EXTINF:-1 tvg-name="百视通2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通2
+#EXTINF:-1 tvg-name="百视通2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通2
 rtp://225.1.1.163:5000
-#EXTINF:-1 tvg-name="百视通3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通3
+#EXTINF:-1 tvg-name="百视通3" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通3
 rtp://225.1.1.164:5000
-#EXTINF:-1 tvg-name="百视通4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通4
+#EXTINF:-1 tvg-name="百视通4" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通4
 rtp://225.1.1.165:5000
-#EXTINF:-1 tvg-name="百视通5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通5
+#EXTINF:-1 tvg-name="百视通5" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通5
 rtp://225.1.1.166:5000
-#EXTINF:-1 tvg-name="百视通6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通6
+#EXTINF:-1 tvg-name="百视通6" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通6
 rtp://225.1.1.167:5000
-#EXTINF:-1 tvg-name="百视通7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通7
+#EXTINF:-1 tvg-name="百视通7" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通7
 rtp://225.1.1.168:5000
-#EXTINF:-1 tvg-name="百视通8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通8
+#EXTINF:-1 tvg-name="百视通8" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通8
 rtp://225.1.1.169:5000
-#EXTINF:-1 tvg-name="百视通9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通9
+#EXTINF:-1 tvg-name="百视通9" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通9
 rtp://225.1.1.170:5000
-#EXTINF:-1 tvg-name="百视通10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通10
+#EXTINF:-1 tvg-name="百视通10" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通10
 rtp://225.1.1.211:5000
-#EXTINF:-1 tvg-name="百视通11" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通11
+#EXTINF:-1 tvg-name="百视通11" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bestv.png" group-title="赛事直播",百视通11
 rtp://225.1.1.212:5000
-#EXTINF:-1 tvg-name="901" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/901.png" group-title="连播频道",901频道 SD
-rtp://225.2.1.78:5000
-#EXTINF:-1 tvg-name="902" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/902.png" group-title="连播频道",902频道
-rtp://225.2.1.79:5000
