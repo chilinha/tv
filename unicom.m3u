@@ -259,7 +259,7 @@ rtp://225.1.2.198:5002
 rtp://225.1.2.245:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="4K频道",北京卫视4K
 rtp://225.1.2.246:5002
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong.png" group-title="4K频道",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong4k.png" group-title="4K频道",广东卫视4K
 rtp://225.1.2.100:5002
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shenzhen.png" group-title="4K频道",深圳卫视4K
 rtp://225.1.2.101:5002
