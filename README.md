@@ -50,6 +50,8 @@ CCTV4K、北京卫视4K、广东卫视4K、深圳卫视4k
 
 ## Screenshots
 
+![](https://github.com/user-attachments/assets/1fe543df-17e4-4c0a-ac07-d130e9958e4b)
+
 ![](https://github.com/user-attachments/assets/f5fa7ff5-c382-4751-8a0f-d88f16b6fffd)
 
 ![](https://github.com/user-attachments/assets/7a39f1e7-1537-40c3-9f67-d5ade60a6055)
