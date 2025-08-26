@@ -99,6 +99,8 @@ rtp://225.1.2.235:5002
 rtp://225.1.2.26:5002
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dongfang.png" group-title="地方频道",上海东方卫视
 rtp://225.1.2.31:5002
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shandong.png" group-title="地方频道",山东卫视
+rtp://225.1.1.148:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing.png" group-title="地方频道",北京卫视
 rtp://225.1.1.113:5002
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hebei.png" group-title="地方频道",河北卫视
