@@ -137,8 +137,6 @@ rtp://225.2.1.50:5000
 rtp://225.2.1.58:5000
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jykt.png" group-title="地方频道",金鹰卡通
 rtp://239.0.2.236:5000
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动 SD
-rtp://225.2.1.62:5000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jyjs.png" group-title="地方频道",金鹰纪实
 rtp://225.2.1.124:5000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing.png" group-title="地方频道",北京纪实科教
@@ -243,12 +241,24 @@ rtp://239.0.2.201:5000
 rtp://239.0.2.198:5000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv4k.png" group-title="4K频道",CCTV4K
 rtp://239.0.2.245:5000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="4K频道",北京卫视4K
-rtp://239.0.2.246:5000
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong4k.png" group-title="4K频道",广东卫视4K
 rtp://239.0.2.100:5000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zhejiang4k.png" group-title="4K频道",浙江卫视4K
+rtp://239.0.2.109:5000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hunan4k.png" group-title="4K频道",湖南卫视4K
+rtp://239.0.2.110:5000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sichuan4k.png" group-title="4K频道",四川卫视4K
+rtp://239.0.2.111:5000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shenzhen4k.png" group-title="4K频道",深圳卫视4K
 rtp://239.0.2.101:5000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dongfang4k.png" group-title="4K频道",上海东方卫视4K
+rtp://239.0.2.108:5000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shandong4k.png" group-title="4K频道",山东卫视4K
+rtp://239.0.2.106:5000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="4K频道",北京卫视4K
+rtp://239.0.2.246:5000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jiangsu4k.png" group-title="4K频道",江苏卫视4K
+rtp://239.0.2.107:5000
 #EXTINF:-1 tvg-name="文艺广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/1046.png" group-title="广播频道",文艺广播
 rtp://225.2.1.171:5000
 #EXTINF:-1 tvg-name="经济广播" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/1014.png" group-title="广播频道",经济广播
