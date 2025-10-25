@@ -144,7 +144,7 @@ rtp://225.1.1.124:5002
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/bjjskj.png" group-title="卫视频道",北京纪实科教
 rtp://225.1.2.30:5002
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sdjy.png" group-title="卫视频道",山东教育卫视 SD
-rtp://225.1.2.118:5002
+rtp://225.1.1.152:5002
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zgtq.png" group-title="卫视频道",中国天气
 rtp://225.1.2.120:5002
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fyzq.png" group-title="付费频道",风云足球
